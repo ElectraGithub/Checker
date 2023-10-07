@@ -180,7 +180,7 @@
 		<div class="col-md-8">
 			<div class="card" style="background-color:transparent;">
 				<div class="card-body text-center">
-					<h4 class="mb-2"><strong><a href="https://t.me/ERR0R_CHECKER">ELECTRA CHECKER</a></strong></h4>
+					<h4 class="mb-2"><strong><a href="SUPPORT ELECTRA X GAURAV">ELECTRA CHECKER</a></strong></h4>
                     <a  
 					style="width:140px;"
 					></a>
