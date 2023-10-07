@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">    
-    <title>ERROR CHECKER</title>
+    <title>ELECTRA CHECKER</title>
 	<link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Muli:300,300i,400,400i,600,600i,700,700i%7CComfortaa:300,400,700" rel="stylesheet">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
@@ -180,7 +180,7 @@
 		<div class="col-md-8">
 			<div class="card" style="background-color:transparent;">
 				<div class="card-body text-center">
-					<h4 class="mb-2"><strong><a href="https://t.me/ERR0R_CHECKER">ERROR CHECKER</a></strong></h4>
+					<h4 class="mb-2"><strong><a href="https://t.me/ERR0R_CHECKER">ELECTRA CHECKER</a></strong></h4>
                     <a  
 					style="width:140px;"
 					></a>
